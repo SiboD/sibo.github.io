@@ -2,7 +2,20 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# About Me
+I am a Ph.D. student at Computer Science in Georgetown University. My advisor is Professor Grace Hui Yang and my research interests are Neural Language Processing, Information Retrieval, Deep Learning, Deep Reinforcement Learning. 
+
+
+
+# Education
+* Ph.D.    Computer Science    Georgetown University    Aug 2021 - Now 
+* M.S.     Computer Science    Georgetown University    Aug 2019 - May 2021  
+* B.E      Computer Science    Beihang University       Aug 2015 - July 2019  
+
+
+
+
+<!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
@@ -120,4 +133,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->
